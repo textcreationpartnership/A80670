@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Councill humbly propounded for the speedy settlement of these long disturbed nations. Wherein is offered such a King, such a church-government, such liberty for tender consciences, as that the royalist, Presbiterian, and persons of different judgements (the three great interests of our nations) may acquiess in.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80670</idno>
+            <idno type="STC">Wing C6515</idno>
+            <idno type="STC">Thomason E1021_14</idno>
+            <idno type="STC">ESTC R208448</idno>
+            <idno type="EEBO-CITATION">99867402</idno>
+            <idno type="PROQUEST">99867402</idno>
+            <idno type="VID">168854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80670)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168854)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1021[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Councill humbly propounded for the speedy settlement of these long disturbed nations. Wherein is offered such a King, such a church-government, such liberty for tender consciences, as that the royalist, Presbiterian, and persons of different judgements (the three great interests of our nations) may acquiess in.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by M. Simmons, for H.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite numerous mispaginatings.</note>
+                  <note>Annotation on Thomason copy: "April. 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Monarchy --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168854:1" rendition="simple:additions"/>
+            <p>COUNCILL Humbly propounded FOR THE SPEEDY SETTLEMENT OF THESE LONG Diſturbed Nations.</p>
+            <p>WHEREIN Is offered ſuch a <hi>King,</hi> ſuch a <hi>Church-Government,</hi> ſuch liberty for <hi>Tender conſciences,</hi> as that the <hi>Royaliſt, Presbiterian,</hi> and perſons of different Judgements (the three great Intereſts of our Nations) may acquieſs in.</p>
+            <p>LONDON: <hi>Printed by</hi> M. Simmons, <hi>for H.</hi> C. In the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="advice">
+            <pb n="1" facs="tcp:168854:2" rendition="simple:additions"/>
+            <head>COUNCILL HUMBLY PROPOUNDED FOR THE Speedy ſettlement of theſe long diſturbed <hi>Nations.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Have obſerved that generally books written for the healing of our breaches, have looked to one ſingle Intereſt only, when as in reaſon and religion alſo, we ought to accommodate our ſelves as far as equity will give leave to the minds of others, for ſelf humor is a di<g ref="char:EOLhyphen"/>ſturbing thing and we are not made to ſwallow up one ano<g ref="char:EOLhyphen"/>ther, but rather to endeavour to our utmoſt power to give ſatisfaction to all ſober Intereſts, and this I conceive is the high-way to compoſe our differences, I have here propoun<g ref="char:EOLhyphen"/>ded that which may in reaſon and conſcience, can but will comply, give content to the <hi>Royaliſt, Presbiterian,</hi> and Congregational Intereſts.</p>
+            <p>It is certainly a good, though difficult work to unite parties, and to bring 2. if it be poſſible 3. into one; for my own particular I am little concerned in affairs among us, ſo as to be bettered or worſted any other wayes then the Common weal ſhall ſuffer, and as I am pained with longing till I ſee my native Country ſettled upon foundations of righteouſ<g ref="char:EOLhyphen"/>neſſe
+<pb n="2" facs="tcp:168854:2"/>and peace, I have therefore ſtudied what may be aba<g ref="char:EOLhyphen"/>ted of the humor of each ſide and partie, and what allowed to one another, and have taken into my thoughts, what materially relates to our differences, and I find one vanity much abounding among the ſons of men, that they will take up ſomething that one way or other ſuits with their own convenience, and then are ſo weded to their own caſe as not to ſee the leaſt reaſon in anothers, be there never ſo much; and it is too much the unhappineſſe of <hi>Engliſh men,</hi> that they like a thing upon a meer fancie, rather then upon grounds in reaſon which puts upon earneſt deſire of change continually. I have likewiſe conſidered this maxim, that that which in it ſelf is beſt, yet may not be beſt for ſuch a people ſo and ſo qualified; And as good food may be dan<g ref="char:EOLhyphen"/>gerous when a body is not rightly prepared to receive it, ſo may a civil Government which may have many conve<g ref="char:EOLhyphen"/>niences in it, prove the deſtruction of a people, not conſtitu<g ref="char:EOLhyphen"/>ted to embrace it, and that by the woful warrs and force that muſt be to maintain that which mens affection oppoſeth, and now what ever the things I propound may be in them<g ref="char:EOLhyphen"/>ſelves abſolutely conſidered, yet I am fully ſatisfied as the caſe ſtands, amongſt us they are the things only that can ſettle us, and are no ways repugnant to honeſty and conſci<g ref="char:EOLhyphen"/>ence, which is chiefly to be preferred, I have impartially diſ<g ref="char:EOLhyphen"/>courſed, with all ſorts and parties and watched where any ſtrength ſhould lay againſt my affirmations, &amp; finding none able to gain-ſay them in point of ſolid argument, is that only which moves me to think them ſo reaſonable, as to preſent them to publick view: I think not fit to inſert here the grounds of what I offer, becauſe of their tediouſnes &amp; your ability at firſt ſight, to ſee into the reaſon of them more then my ſelf; Upon long deliberation and much weighing them, now I beleeve if at this turn prejudice and rigor be not laid aſide, and ſuch moderation prudence and charity as to do
+<pb n="4" facs="tcp:168854:3"/>good againſt evil made uſe of by authority &amp; wickedneſſe be not ſuppreſſed among the people, that our wounds wil be only skinned over and ſhortly break out againe to the great danger of the whole body. Firſt therefore the genius of the people of <hi>England</hi> not yeilding to a Common-wealth-go<g ref="char:EOLhyphen"/>vernment, but requiring a Kingly one, let moderate Monar<g ref="char:EOLhyphen"/>chy be eſtabliſht, wherein the King may rule with Chriſtian Prudence and Policie, wherein the peoples reall good may be had in regard, and their true freedome ſecured, and the rights and priviledges of the peoples Repreſentatives in Par<g ref="char:EOLhyphen"/>liament maintained, and wherein alſo each eſtate may be ob<g ref="char:EOLhyphen"/>liged to promote together good Lawes for the Land. Some there be that cannot be contented with Royall Majeſtie, as a title for the King, or great magnificent excellent Soveraigne, but dread and adore him under the termes of ſacred, infi<g ref="char:EOLhyphen"/>nite, as one that can doe no wrong: but how this honour to man tendeth to the honour of God, let the impartiall judge. 2. As to Church-government, let an Aſſembly beſummon'd of <hi>Engliſh, Scots, French,</hi> and <hi>Dutch, Proteſtant</hi> miniſters, <hi>Epiſ<g ref="char:EOLhyphen"/>copalians, Presbyteriant,</hi> and <hi>Congregationall</hi> perſons, where<g ref="char:EOLhyphen"/>of Dr. <hi>Hamond,</hi> Mr. <hi>Peirſon,</hi> Dr <hi>Seman,</hi> Mr. <hi>Pool,</hi> Mr. <hi>Nie,</hi> Dr. <hi>Owen,</hi> and Mr. <hi>Baxter</hi> would doe well to be, ſeaven being verſed in the Controverſie, who may freely debate and con<g ref="char:EOLhyphen"/>ſider what the Magiſtrates power and buſineſſe is in matters of Religion, and what government Chriſt hath appointed for his Church, and that we may have neither name or thing eſtabliſht, but what the word of God alloweth of; and that tradition and cuſtome may be no offence, ſeeing the holy Scriptures are able to make the man of God wiſe to ſalva<g ref="char:EOLhyphen"/>tion through faith in Chriſt; therefore if this golden rule al<g ref="char:EOLhyphen"/>low of Biſhops, let us have them, or Elders let us have them, and ſuch Paſtors, Deacons, and Church Officers, neither more, leſſe, or any other, all made good by ſuch clear proofe and ſound evidence, &amp; printed: that no conſciencious perſon
+<pb n="4" facs="tcp:168854:3"/>may be conſtrained either to flie or ſuffer through a non<g ref="char:EOLhyphen"/>conformitie, and ſuch only left as will comply with any thing that ſhall comport with their eaſe and profit, and if what be done in Church-affaires be fully proved, the gain-ſayers mouth will be ſtopt, and the Churches be more pure and in<g ref="char:EOLhyphen"/>tire, giving no occaſion for ſeparation from them. Now I doe humbly conceive this following courſe would doe very well as to theſe matters, namely, if any place doe want a Miniſter, let any foure of the Pariſh have libertie to bring in one to preach upon tryall, afterward let ſome good men in the Pariſh preſent one that they doe judge fit to Authoritie with deſire to be admitted to be their Miniſter, and to re<g ref="char:EOLhyphen"/>ceive the maintenance allowed; but regard ſhould be had as near as may be to the generalitie of toſe that are good in the Pariſh as to the choice, and the Miniſter ſetled, his worke ſhould be to gather out of the Pariſh into the Church all ſuch as ſhall be fit, and to adminiſter the Sacraments to them, and to baptize their Children: and the Miniſters further worke ſhould be on the Lords day in the morning to begin with a ſhort preyer for a bleſſing on the whole day, or the Lords prayer, that thoſe that do ſcruple formes may come in after<g ref="char:EOLhyphen"/>ward, and then to read a Chjapter in the Old Teſtament, of<g ref="char:EOLhyphen"/>ten the 20 <hi>Exod.</hi> and in the <hi>Pſalmes,</hi> and a Chapter in the New Teſtament, and then proceed to ſinging a <hi>Pſalme,</hi> pray<g ref="char:EOLhyphen"/>er, and preaching, as uſually, but not to be confin'd to a forme of words in prayer, but the ſubſtance only laid downe as it is excellently well by the laſt Aſſembly; and in the afternoone before Sermon to have on one Lords day Catechizing, ano<g ref="char:EOLhyphen"/>ther a Chapter read in the old and New Teſtament; and on the third, expounding of ſome part of Scripture; and ſo con<g ref="char:EOLhyphen"/>ſtantly, the Minſters worke ſhould be alſo to bury and preach in ſeaſon and out of ſeaſon. Thus far moſt ſober good men of the <hi>Epiſcopalian, Presbyterian,</hi> or <hi>Congregationall</hi> partie might agree, and if the Scripture requires no more, it is pit<g ref="char:EOLhyphen"/>tie
+<pb n="5" facs="tcp:168854:4"/>more ſhould be impoſed, but there is a difference which ſhould be decided with much warineſs, and that is about Or<g ref="char:EOLhyphen"/>dination: Some hold that a Church conſtituted as I have be<g ref="char:EOLhyphen"/>fore mentioned, ſhould chooſe ruling Elders, who ſhould or<g ref="char:EOLhyphen"/>daine, and that the Apoſtles being vertually Elders did upon this account ordaine; others hold the Apoſtles ordained as extraordinary Officers, and ſo Ordination ceaſeth; but it is generally received, that laying on of the hands of the <hi>Presby<g ref="char:EOLhyphen"/>terie,</hi> is an Elderſhip of Paſtors of Churches; which if it may be made good from Scripture, then I conceive the enſuing expedient would tend very much towards reconciling of Brethren, let eight Pariſhes be conſtituted a Dioceſſe or Claſ<g ref="char:EOLhyphen"/>ſis, the Paſtors of which to chooſe out one to be Biſhop, Preſi<g ref="char:EOLhyphen"/>dent or Chaireman, who with two or three or more of the reſt of the <hi>Presbyters</hi> may ordaine: here is the Biſhop that is with<g ref="char:EOLhyphen"/>out Lordlineſs, and that hath a flock to take care of.</p>
+            <p>Thirdly, As for liberty for tender conſciences, there need be no more then this, that none ſhould be debarred meerly meeting in private about the ſervice of God, I do not meane by private that the doors ſhall be ſhut, but in other places be<g ref="char:EOLhyphen"/>ſides the Church, and a penalty upon thoſe that hinder them, for they may meet for the purpoſe of good diſcourſe, repea<g ref="char:EOLhyphen"/>ting of Sermons, beſides its hard to thruſt out thoſe that dif<g ref="char:EOLhyphen"/>fer only in circumſtantialls; and if I miſtake not, very Reve<g ref="char:EOLhyphen"/>rend fathers have highly approved that perticular, Church<g ref="char:EOLhyphen"/>es with their Miniſter ſhould chooſe out ſuch as God hath endeued to ſpeak to edification, wherefore let only ſuch be ſuppreſſed as ſhall preach or publiſh blaſphemy, treaſon, or ſuch groſſe errors as the Parliament ſhall think fit to puniſh, this is not like to touch any truly godly, and then it is to be hoped that men will ſpend their heat againſt fundamentall errors, though retaining good will and compaſſion for the in<g ref="char:EOLhyphen"/>fected, and that an agreement in greater truths will ſwallow up differences about the leſſer, and reconcile chriſtians in
+<pb n="6" facs="tcp:168854:4"/>love to one another, theſe three forementioned particulars, are not only very ſoveraign for the healing of our Nations, but I think I may call them the eſſentialls of ſettlement, and they will gain all the three great parties amongſt us, and bind peace faſt to us; but though theſe are the main things ne<g ref="char:EOLhyphen"/>ceſſary, yet there are two things more that very much con<g ref="char:EOLhyphen"/>duce to the making of our ſettlement ſuch a compleat and happy one, as is to be wiſhed.</p>
+            <p>The firſt is, An act of Indempnitie and forgetfullneſſe, for all words, books, writings, actions Military and civill, in re<g ref="char:EOLhyphen"/>lation to our Wars, differences, changes, extended as far as poſſible; this will turn anger into love, but as for the war at firſt, it was a breach between the three eſtates, neither of which alone had power to make a Law, therefore to make the war with the King all one, as if it was undertaken by pri<g ref="char:EOLhyphen"/>vate perſons, is to nullifie the power of the Houſe of Com<g ref="char:EOLhyphen"/>mons, and an enſlavery of the people, and for what hath been done ſince things have been out of courſe, chriſtianity teach<g ref="char:EOLhyphen"/>eth us not revenge, wherefore let reaſon guided with cle<g ref="char:EOLhyphen"/>mency rule herein.</p>
+            <p>Secondly, That the Nations mind may go on, and the Par<g ref="char:EOLhyphen"/>liament not change from the intentions of the people, that an act be made that on ſuch a certaine day, every three years the Sheriffe of each Country ſhall under a penalty, ſummon the Country to chooſe Knights and Burgeſſes to ſerve in Par<g ref="char:EOLhyphen"/>liament, who ſhall ſit on ſuch a certain day, likewiſe as ſhall be appointed, and the foregoing Parliament, if not diſſolved, ſhall end the day before the new one cometh to ſit, ſome ge<g ref="char:EOLhyphen"/>nerall qualifications would do well, as to chooſe no Atheiſt, Papiſt, Drunkard, Whore-monger, common ſwearers or pro<g ref="char:EOLhyphen"/>fane perſon, theſe things being done, other neceſſaries would be eaſie, you ſhould not be daily in danger of plots, our common enemy would not be of &amp; in our own bowels, there would be no more expectation of tumults or of more toſ<g ref="char:EOLhyphen"/>ſings,
+<pb n="8" facs="tcp:168854:5"/>and things would be in ſuch a quiet poſture as Milita<g ref="char:EOLhyphen"/>ry Officers may be turned into Civil, ſwords into plough<g ref="char:EOLhyphen"/>ſhares, and every one may then ſet under his own Vine, eat<g ref="char:EOLhyphen"/>ing the fruit of his own labor. This will not only maintaine peace at home, but defend our peace from enemies abroad, then you will have a fair opportunity to ſet forward trade, to hear complaints, redreſſe grievances, to eaſe burthens, prevent fraud, to take off oppreſſion, to conſider poor pri<g ref="char:EOLhyphen"/>ſoners for debt, to equal elections for Parliament men, to cauſe Juſtice to be adminiſtred impartially, to ſuppreſſe ſcandalous profane, and obſceen books, to regulate the Law, and its charges, ſo as that the pooreſt wronged may have right, in all things to be a terror to evildoers, but a praiſ to the<g ref="char:cmbAbbrStroke">̄</g> that do well, <hi>then will righteouſneſs run downe as a mighty ſtream, and God even our God will bleſs us, but whoever hath power given them and ſhall neglect the poor and needy, ſuffer violence and wickedneſse, love their own eaſe, judge for re<g ref="char:EOLhyphen"/>ward: this their ſin will be bitterneſs in the latter end unto them:</hi> Now there be theſe three things I would leave with you for the publick good, Namely,</p>
+            <p>Firſt, That a houſe be ſet up in every County, with three overſeers for the poor, that they which can work ſhould, &amp; the other be provided for, near the Sea, if a trade was mannaged, buſſes for fiſhing may be uſed, and many lame and blind imployed about the nets in the mean time, the coining of Copper tokens or Farthings, would much ſerve the good of the poor.</p>
+            <p>Secondly, That the art of Navigation may be ſtrengthned, for through the neglect and breaking of it Seamen and ſhipping, the walls of our Nation is much leſſened and decayed, and is in danger (if not lookt after) to fall and come to ruine.</p>
+            <p>Thirdly, As you would have God preſerve us from the plague and ſword, take a more effectual courſe then ever, to prevent and puniſh ſwea<g ref="char:EOLhyphen"/>ring, curſing, whoring, drunkenneſſe, cheating, Idle and looſe gaming, and all prophaneſſe and debaucherie, otherwiſe what peace on earth if heaven ſhould fight againſt us? I remember before our late troubles we was trou<g ref="char:EOLhyphen"/>bled with an uncivil wicked crew, given up to gaming, drinking, violence, playes, and all manner of ſenſual vanitie, who cared for no more religion then to nick name thoſe that was indeed religious, and to vilifie ſtrickneſſe and cry down and abuſe thoſe whoſe tender conſciences could not conform to impoſed ceremonies.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
